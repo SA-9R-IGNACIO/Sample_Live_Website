@@ -1,0 +1,10 @@
+body { background-color: dimgray;}
+h1 { font-size: 60px; color: #3B270C; background-color: silver; text-align: center; border: 10px dotted gold;}
+.container
+
+{ background-color: silver; width: 500px; margin: auto; text-align: center; border: 10px #3B270C;
+border-radius: 30px; padding: 50px; box-shadow: 10px 10px 25px rgba(130, 50, 20, 1.0); }
+#hp { color: #3B270C; border-color: #3B270C; background-color: #3B270C;}
+
+.link { color: #3B270C; font-size: 28px; text-emphasis: italic; }
+#leftlang { text-align:left; }
